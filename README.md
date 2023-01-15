@@ -23,8 +23,10 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+View GIF Walkthrough using the following link: https://imgur.com/a/1mYuIJ7
+(Please Note!!! : gif size to large to display in README.md)
 
-<img src='Kapture 2023-01-15 at 01.58.55.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
